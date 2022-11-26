@@ -1,5 +1,5 @@
 var myChart = echarts.init(document.querySelector('.water'));
-let compositeScore = 0.78;
+let compositeScore = 0.99;
 var option = {
     graphic: [
         {
